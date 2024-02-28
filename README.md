@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TheBestRepoEver
+- 👀 I’m interested in learning coding and building applications 
+- 🌱 I’m currently learning python
+- 📫 How to reach me hi@631mediagroup.com
+- ⚡ Fun fact: ✨
